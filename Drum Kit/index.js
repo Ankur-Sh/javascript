@@ -2,15 +2,17 @@
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 for (var i = 0; i < numberOfDrumButtons; i++) {
     document
-        .querySelectorAll("button")
+        .querySelectorAll(".drum")
         [i].addEventListener("click", function () {
             var buttonInnerHtml = this.innerHTML;
             makesound(buttonInnerHtml);
+            buttonAnimation(buttonInnerHtml);
         });
 }
 //Detecting Keyboard Press
 document.addEventListener("keypress", function (event) {
     makesound(event.key);
+    buttonAnimation(event.key);
 });
 function makesound(key) {
     switch (key) {
@@ -47,6 +49,13 @@ function makesound(key) {
             console.log(buttonInnerHtml);
             break;
     }
+}
+function buttonAnimation(currentKey) {
+    var activeButton = document.querySelector("." + currentKey);
+    activeButton.classList.add("pressed");
+    setTimeout(function () {
+        activeButton.classList.remove("pressed");
+    }, 100);
 }
 //this-->this in javascrpt helps in identifying which button is get clicked.
 //event tell us which key is being pressed in keyboard.
