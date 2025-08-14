@@ -5,7 +5,7 @@ React Reconcilation
 React Lifecycle Methods
 Hoisting,Closure,Promises,Async Await, callback
 T Dead zone
-Memoization and Context api
+Memoization,Context api,usememo and usecallback
 Higher order function, IIF and pure function
 Usestate,Useeffect,Useref
 State and usestate
