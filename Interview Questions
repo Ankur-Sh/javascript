@@ -12,3 +12,5 @@ State and usestate
 React vs Nextjs
 CSR and SSR
 Event loop
+//Advanced
+call,apply and bind
