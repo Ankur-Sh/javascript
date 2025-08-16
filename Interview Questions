@@ -1,10 +1,11 @@
+//js and React
 Event Bubbling and Event Capturing
 Deep Cloning and Soft cloning and how to perform them
 Debouncing and throtling
 React Reconcilation
 React Lifecycle Methods
 Hoisting,Closure,Promises,Async Await, callback
-T Dead zone
+Temporal Dead zone
 Memoization,Context api,usememo and usecallback
 Higher order function, IIF and pure function
 Usestate,Useeffect,Useref
@@ -14,6 +15,8 @@ CSR and SSR
 Event loop
 Map,filter,Reduce and api calling
 Busy main thread for 2 sec
+Props drilling and redux
+Redux is 
 
 //CSS
 Specificity in css (id, class and inline )
