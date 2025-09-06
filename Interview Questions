@@ -20,11 +20,12 @@ Redux is persistent or not
 usedispatch,useselector and all
 implementation of deepcopy and flatten the nested object
 indexing and caching
-event loop
 pririty of promise,settimeout and fetch with their respective queues
+React pure component
+call,apply and bind
+Aggregation in mongodb
+How to optimise frontend performance
+types of promises (Promise.all(),Promise.race(),Promise.allSettled(),Promise.any())
 
 //CSS
 Specificity in css (id, class and inline )
-
-//Advanced
-call,apply and bind
