@@ -32,6 +32,7 @@ Middleware
 how to optimise image and video performance
 how to optimise website performance
 what happen if we dont put dependency array in useEffect
+datatypes in js (primitive->number non-primitive->object)
 
 
 //CSS
