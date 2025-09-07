@@ -26,6 +26,9 @@ call,apply and bind
 Aggregation in mongodb
 How to optimise frontend performance
 types of promises (Promise.all(),Promise.race(),Promise.allSettled(),Promise.any())
+Currying
+Custom hooks
+Middleware
 
 //CSS
 Specificity in css (id, class and inline )
