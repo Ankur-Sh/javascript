@@ -35,6 +35,7 @@ what happen if we dont put dependency array in useEffect
 datatypes in js (primitive->number non-primitive->object)
 How to optimise api performance
 difference between context api and redux
+type module and commonjs difference
 
 
 //CSS
