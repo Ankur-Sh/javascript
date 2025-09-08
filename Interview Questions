@@ -1,4 +1,4 @@
-//js and React
+//js,Nodejs and React
 Event Bubbling and Event Capturing
 Deep Cloning and Soft cloning and how to perform them
 Debouncing and throtling
@@ -33,6 +33,8 @@ how to optimise image and video performance
 how to optimise website performance
 what happen if we dont put dependency array in useEffect
 datatypes in js (primitive->number non-primitive->object)
+How to optimise api performance
+difference between context api and redux
 
 
 //CSS
