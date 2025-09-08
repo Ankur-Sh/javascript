@@ -28,7 +28,7 @@ How to optimise frontend performance
 types of promises (Promise.all(),Promise.race(),Promise.allSettled(),Promise.any())
 Currying
 Custom hooks
-Middleware
+Middleware and can we use more than 1 middleware
 how to optimise image and video performance
 how to optimise website performance
 what happen if we dont put dependency array in useEffect
