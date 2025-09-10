@@ -31,6 +31,7 @@ Custom hooks
 Middleware and can we use more than 1 middleware
 how to optimise image and video performance
 how to optimise website performance
+suppose a api is taking 5 sec you need to optimise it through backend how will you?
 what happen if we dont put dependency array in useEffect
 datatypes in js (primitive->number non-primitive->object)
 How to optimise api performance
