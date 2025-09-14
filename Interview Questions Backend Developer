@@ -1,0 +1,55 @@
+Explain what an API endpoint is.
+Can you explain the difference between SQL and NoSQL databases?
+What is a RESTful API, and what are its core principles?
+Can you describe a typical HTTP request/response cycle?
+How would you handle file uploads in a web application?
+What kind of tests would you write for a new API endpoint?
+How do you approach API versioning in your projects?
+How do you protect a server from SQL injection attacks?
+Explain the concept of statelessness in HTTP and how it impacts backend services.
+What is containerization, and how does it benefit backend development?
+What measures would you take to secure a newly developed API?
+How would you scale a backend application during a traffic surge?
+What tools and techniques do you use for debugging a backend application?
+How do you ensure your backend code is maintainable and easy to understand?
+
+🟡 Intermediate-Level Questions
+
+Describe how you would implement a full-text search in a database.
+How would you approach batch processing in a data-heavy backend application?
+Can you explain the use and benefits of a message queue in a distributed system?
+What strategies would you use to manage database connections in a high-load scenario?
+How would you set up a continuous integration/continuous deployment (CI/CD) pipeline for backend services?
+Can you describe a distributed caching strategy for a high-availability application?
+What methods can you use for managing background tasks in your applications?
+How do you handle data encryption and decryption in a privacy-focused application?
+What are webhooks and how have you implemented them in past projects?
+What considerations must be taken into account for GDPR compliance in a backend system?
+Explain how you would deal with long-running processes in web requests.
+Discuss the implementation of rate limiting to protect APIs from abuse.
+How do you instrument and monitor the performance of backend applications?
+What are microservices, and how would you decompose a monolith into microservices?
+How have you managed API dependencies in backend systems?
+Describe the concept of eventual consistency and its implications in backend systems.
+What is a reverse proxy, and how is it useful in backend development?
+How would you handle session state in a load-balanced application environment?
+
+🔴 Advanced-Level Questions
+
+What is database replication, and how can it be used for fault tolerance?
+Describe the use of blue-green deployment strategy in backend services.
+Can you explain the consistency models in distributed databases (e.g., CAP theorem)?
+How do you manage schema migrations in a continuous delivery environment?
+What strategies exist for handling idempotency in REST API design?
+Describe the implementation of a single sign-on (SSO) solution.
+Explain how you would develop a backend system for handling IoT device data streams.
+How would you architect a backend to support real-time data synchronization across devices?
+Discuss the benefits and drawbacks of microservice architectures in backend systems.
+How would you approach load testing a backend API?
+Describe how you would implement a server-side cache eviction strategy.
+What are correlation IDs, and how can they be used for tracing requests across services?
+Explain the difference between optimistic and pessimistic locking and when to use each.
+What methods would you use to prevent deadlocks in database transactions?
+How would you secure inter-service communication in a microservices architecture?
+Discuss techniques for preventing and detecting data anomalies in large-scale systems.
+Describe the process of creating a global, high-availability data storage solution for a multinational application.
