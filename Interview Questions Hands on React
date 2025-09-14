@@ -1,0 +1,59 @@
+Build these to get comfortable with UI basics and React syntax.
+
+Basic Todo App
+Counter with increment/decrement
+Form component with state handling
+Modal (open/close logic)
+Debounced Search Bar
+React Router (basic routing)
+Single Pagination
+Login Form with validations
+Dropdown Menu component
+Theme toggle (Light/Dark)
+
+Focus on clean structure, reusability, and basic hooks.
+
+Go Deep (Medium Level)
+
+Here, the goal is composition + state management + real API usage.
+
+Weather App (API calls)
+Basic Chat UI
+CRUD App with Firebase
+Multi-step Form Wizard
+Responsive Sidebar
+Data Table with Sort/Pagination
+Custom Hook for Form Validation
+CSS Grid Layout (mobile-first)
+Image Carousel
+Drag and Drop UI
+Search Filter on List
+Movie Search App (OMDB or TMDB API)
+Infinite Scroll Component
+Global State with Context API
+File Upload UI
+Mini Cart System
+Sticky Header on Scroll
+Real-time Chat with WebSockets
+Dashboard with Charts (Chart.js / Recharts)
+Autocomplete Input
+This is where real UI logic questions usually lie. Think logic, not just layout.
+
+Advanced Engineering (Hard Level)
+
+Time to think like a systems designer. These projects will challenge your architecture decisions.
+Multi-user Todo App with Auth
+Full-stack App (React + Node.js)
+Real-time Collaborative Editor
+Redux-based Scalable State
+Basic Video Streaming UI
+Social App UI (Posts, Likes, Comments)
+Dashboard with Server-side Charts
+Server-Side Rendering (Next.js or custom)
+Build your own Router (yes, really)
+File Manager App
+Custom Data Grid (pagination + filters)
+In-app Notification System
+Turn React App into a PWA
+Auth System with JWT
+Payment Integration (Stripe/Razorpay)
