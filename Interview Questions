@@ -9,7 +9,7 @@ Temporal Dead zone
 Memoization,Context api,usememo and usecallback
 Higher order function, IIF and pure function
 Usestate,Useeffect,Useref
-State and usestate
+Props vs State
 React vs Nextjs
 CSR, ISR and SSR
 Event loop
@@ -38,6 +38,11 @@ How to optimise api performance
 difference between context api and redux
 type module and commonjs difference
 difference between mongodb and mongoose
+React Fragments
+Cleanup function in useEffect
+Controlled vs Uncontrolled components
+Normal vs Arrow functions
+'This' keyword in different contexts
 
 
 //CSS
