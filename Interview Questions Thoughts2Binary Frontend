@@ -1,0 +1,31 @@
+Round 1:
+
+1. What is the difference between span (takes content width) and div (takes full width of the view)?
+2. What are pseudo-classes? (Define specific state of an element)
+3. What is closure? (A function remembers variables from its outer lexical scope)
+4. What is hoisting? (Moving declarations to the top of the scope during compilation)
+5. Difference between absolute (relative to nearest positioned ancestor) and sticky (relative but sticks while scrolling) positioning.
+6. Importance of TypeScript over JavaScript.
+7. Difference between let and const.
+8. How to optimize code?
+
+
+Round 2:
+
+Aptitude questions.
+JavaScript coding questions.
+1 DSA problem based on recursion on a matrix:
+ 👉 Given an n x n matrix with some blocked cells, determine if there is a possible path from the first row, first column cell to the last row, last column cell.
+
+
+Round 3:
+
+1. What are the limitations of CSS?
+2. How is Tailwind CSS better than vanilla CSS?
+3. What is hydration?
+4. Different libraries and packages used in React for frontend.
+5. How to make a website responsive for different devices?
+6. When does useEffect work? (After mounting and before unmounting)
+7. Difference between:
+ 👉 useEffect(()=>{}) → Runs on every update.
+ 👉 useEffect(()=>{}, []) → Runs only on initial render.
