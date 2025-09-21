@@ -38,6 +38,9 @@ Controlled vs Uncontrolled components
 Normal vs Arrow functions
 'This' keyword in different contexts
 
+//Project Based
+How will you roll back a transaction
+How will you scale up a live updating dashboard for 1000+ users
 
 //CSS
 Specificity in css (id, class and inline )
