@@ -60,3 +60,44 @@ Package.json work
 How to optimise api performance
 suppose a api is taking 5 sec you need to optimise it through backend how will you?
 Middleware and can we use more than 1 middleware
+What is Node.js?
+What is the difference between Node.js and JavaScript?
+Is Node.js single-threaded?
+What kind of API function is supported by Node.js?
+What is a module in Node.js?
+What is npm and its advantages?
+What is middleware?
+How does Node.js handle concurrency despite being single-threaded?
+What is control flow in Node.js?
+What do you mean by event loop in Node.js?
+What are the main disadvantages of Node.js?
+What is REPL in Node.js?
+How to import a module in Node.js?
+What is the difference between Node.js and AJAX?
+What is package.json in Node.js?
+What is the most popular Node.js framework used these days?
+What are promises in Node.js?
+What is event-driven progamming in Node.js?
+What is buffer in Node.js?
+What are streams in Node.js?
+Explain crypto module in Node.js.
+What is callback hell?
+Explain the use of timers module in Node.js.
+What is the difference between setImmediate() and process.nextTick() methods?
+What is the difference between setTimeout() and setImmediate() method?
+What is the difference between spawn() and fork() method?
+Explain the use of passport module in Node.js.
+What is fork in Node.js
+What are the three methods to avoid callback hell?
+What is body-parser in Node.js?
+What is CORS in Node.js?
+Explain the tls module in Node.js.
+What is a cluster in Node.js?
+How to manage sessions in Node.js?
+Explain the types of streams in Node.js.
+How can we implement authentication and authorization in Node.js?
+Explain the packages used for file uploading in Node.js.
+How to handle database connection in Node.js?
+How to read command line arguments in Node.js?
+What are child processes in Node.js?
+Difference Between Restfful and Graphql API?
