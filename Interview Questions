@@ -49,6 +49,8 @@ Specificity in css (id, class and inline )
 Higher Order Component
 
 //Backend
+What is the difference between process.nextTick(), setImmediate(), and setTimeout()?
+What is the role of the libuv library in Node.js?
 Cron jobs
 Websockets
 Microservices
@@ -58,7 +60,13 @@ Aggregation in mongodb
 Session vs Token based authentication
 Authentcation vs authorization
 Jwt,Oauth
-Types:commonjs and module
+What is clustering in Node.js and when should you use it?
+ How do you design scalable RESTful APIs?
+ What are the key principles of REST architecture?
+ How do you handle API versioning?
+ How would you implement rate limiting in an API?
+ Explain the importance of idempotency in HTTP methods.
+Explain the difference between CommonJS and ES Modules in Node.js.
 How to optimise api performance
 suppose a api is taking 5 sec you need to optimise it through backend how will you?
 Middleware and can we use more than 1 middleware
@@ -102,3 +110,7 @@ How to handle database connection in Node.js?
 How to read command line arguments in Node.js?
 What are child processes in Node.js?
 Difference Between Restfful and Graphql API?
+
+
+
+Link to backend questions: https://drive.google.com/file/d/1r0d7YrwftNGHwJtQAEcp9nkAJ0mHtY98/view
