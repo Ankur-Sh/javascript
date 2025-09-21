@@ -1,52 +1,57 @@
+Use 
+✅ ->good command 
+❌ ->bad command
+⭕️ -> normal
+
 //js and React
-Event Bubbling and Event Capturing
-Deep Cloning and Soft cloning and how to perform them
-Debouncing and throtling
-React Reconcilation
-React Lifecycle Methods
-Hoisting,Closure,Promises,Async Await, callback
-Temporal Dead zone
-Memoization,Context api,usememo and usecallback
-Higher order function, IIF and pure function
-Usestate,Useeffect,Useref
-Props vs State
-React vs Nextjs
-CSR, ISR and SSR
-Event loop
-Map,filter,Reduce and api calling
-Busy main thread for 2 sec
-Props drilling and redux
-Redux is persistent or not
-usedispatch,useselector and all
-implementation of deepcopy and flatten the nested object
-priority of promise,settimeout and fetch with their respective queues
-React pure component
-call,apply and bind
-How to optimise frontend performance
-types of promises (Promise.all(),Promise.race(),Promise.allSettled(),Promise.any())
-Currying
-Custom hooks
-how to optimise image and video performance
-how to optimise website performance
-what happen if we dont put dependency array in useEffect
-datatypes in js (primitive->number non-primitive->object)
-difference between context api and redux
-difference between mongodb and mongoose
-React Fragments
-Cleanup function in useEffect
-Controlled vs Uncontrolled components
-Normal vs Arrow functions
-'This' keyword in different contexts
+⭕️Event Bubbling and Event Capturing
+⭕️Deep Cloning and Soft cloning and how to perform them
+✅Debouncing and throtling
+✅React Reconcilation
+✅React Lifecycle Methods
+⭕️Hoisting,Closure,Promises,Async Await, callback
+⭕️Temporal Dead zone
+❌Memoization,Context api,usememo and usecallback
+❌Higher order function, IIF and pure function
+⭕️Usestate,Useeffect,Useref
+✅Props vs State
+✅React vs Nextjs
+⭕️CSR, ISR and SSR
+✅Event loop
+✅Map,filter,Reduce and api calling
+✅Busy main thread for 2 sec
+✅Props drilling and redux
+✅Redux is persistent or not
+⭕️usedispatch,useselector and all
+❌implementation of deepcopy and flatten the nested object
+✅priority of promise,settimeout and fetch with their respective queues
+⭕️React pure component
+❌call,apply and bind
+✅How to optimise frontend performance
+⭕️types of promises (Promise.all(),Promise.race(),Promise.allSettled(),Promise.any())
+✅Currying
+❌Custom hooks
+⭕️how to optimise image and video performance
+⭕️how to optimise website performance
+✅what happen if we dont put dependency array in useEffect
+✅datatypes in js (primitive->number non-primitive->object)
+✅difference between context api and redux
+✅difference between mongodb and mongoose
+✅React Fragments
+✅Cleanup function in useEffect
+❌Controlled vs Uncontrolled components
+❌Normal vs Arrow functions
+❌'This' keyword in different contexts
 
 //Project Based
-How will you roll back a transaction
-How will you scale up a live updating dashboard for 1000+ users
+❌How will you roll back a transaction
+❌How will you scale up a live updating dashboard for 1000+ users
 
 //CSS
-Specificity in css (id, class and inline )
+❌Specificity in css (id, class and inline )
 
 //Advance
-Higher Order Component
+❌Higher Order Component
 
 //Backend
 What is the difference between process.nextTick(), setImmediate(), and setTimeout()?
