@@ -19,24 +19,18 @@ Props drilling and redux
 Redux is persistent or not
 usedispatch,useselector and all
 implementation of deepcopy and flatten the nested object
-indexing and caching
-pririty of promise,settimeout and fetch with their respective queues
+priority of promise,settimeout and fetch with their respective queues
 React pure component
 call,apply and bind
-Aggregation in mongodb
 How to optimise frontend performance
 types of promises (Promise.all(),Promise.race(),Promise.allSettled(),Promise.any())
 Currying
 Custom hooks
-Middleware and can we use more than 1 middleware
 how to optimise image and video performance
 how to optimise website performance
-suppose a api is taking 5 sec you need to optimise it through backend how will you?
 what happen if we dont put dependency array in useEffect
 datatypes in js (primitive->number non-primitive->object)
-How to optimise api performance
 difference between context api and redux
-type module and commonjs difference
 difference between mongodb and mongoose
 React Fragments
 Cleanup function in useEffect
@@ -50,3 +44,19 @@ Specificity in css (id, class and inline )
 
 //Advance
 Higher Order Component
+
+//Backend
+Event Loop in backend
+Reddis Caching
+indexing and caching
+Aggregation in mongodb
+Session vs Token based authentication
+Authentcation vs authorization
+Jwt,Oauth
+Backend Event Loop
+Nodejs is Singlethreaded so how it handle concurrency
+Types:commonjs and module
+Package.json work
+How to optimise api performance
+suppose a api is taking 5 sec you need to optimise it through backend how will you?
+Middleware and can we use more than 1 middleware
