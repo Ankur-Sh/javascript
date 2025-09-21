@@ -52,23 +52,18 @@ Higher Order Component
 Cron jobs
 Websockets
 Microservices
-Event Loop in backend
 Reddis Caching
 indexing and caching
 Aggregation in mongodb
 Session vs Token based authentication
 Authentcation vs authorization
 Jwt,Oauth
-Backend Event Loop
-Nodejs is Singlethreaded so how it handle concurrency
 Types:commonjs and module
-Package.json work
 How to optimise api performance
 suppose a api is taking 5 sec you need to optimise it through backend how will you?
 Middleware and can we use more than 1 middleware
 What is Node.js?
 What is the difference between Node.js and JavaScript?
-Is Node.js single-threaded?
 What kind of API function is supported by Node.js?
 What is a module in Node.js?
 What is npm and its advantages?
