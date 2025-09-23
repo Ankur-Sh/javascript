@@ -42,6 +42,7 @@ Use
 ❌Controlled vs Uncontrolled components
 ❌Normal vs Arrow functions
 ❌'This' keyword in different contexts
+✅Destructuring in js
 
 //Project Based
 ❌How will you roll back a transaction
@@ -49,6 +50,7 @@ Use
 
 //CSS
 ❌Specificity in css (id, class and inline )
+✅Semantic Tags
 
 //Advance
 ❌Higher Order Component
