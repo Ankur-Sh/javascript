@@ -9,8 +9,8 @@ Use
 ✅Debouncing and throtling
 ✅React Reconcilation
 ✅React Lifecycle Methods
-⭕️Hoisting,Closure,Promises,Async Await, callback
-⭕️Temporal Dead zone
+✅Hoisting,Closure,Promises,Async Await, callback
+✅Temporal Dead zone
 ❌Memoization,Context api,usememo and usecallback
 ❌Higher order function, IIF and pure function
 ⭕️Usestate,Useeffect,Useref
