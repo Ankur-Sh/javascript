@@ -16,7 +16,7 @@ Use
 ⭕️Usestate,Useeffect,Useref
 ✅Props vs State
 ✅React vs Nextjs
-⭕️CSR, ISR and SSR
+⭕️CSR, ISR, SSR and SSG
 ✅Event loop
 ✅Map,filter,Reduce and api calling
 ✅Busy main thread for 2 sec
