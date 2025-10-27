@@ -55,6 +55,7 @@ Instructions
 
 //Advance
 ❌Higher Order Component
+❌How will you make your own component library and use it on other place like Shadcn (something related to atomicity)
 
 //Backend
 Difference between package.json and package-lock.json
