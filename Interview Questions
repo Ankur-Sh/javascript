@@ -47,6 +47,7 @@ Instructions
 //Project Based
 ❌How will you roll back a transaction
 ❌How will you scale up a live updating dashboard for 1000+ users
+❌How you make live updating Dashboard
 
 //CSS
 ✅Specificity in css (id, class and inline )
