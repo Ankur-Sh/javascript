@@ -74,3 +74,58 @@
 27. How does server-side rendering (SSR) differ from client-side rendering (CSR) in React?
 28. What are React Fiber and Concurrent Mode?
 29. How do you test React components? What are the commonly used testing libraries?
+
+
+
+
+Knowledge
+
+
+“What happens when you enter a URL and press Enter?”
+
+Here’s the answer that got me selected later 👇
+
+1. Browser checks cache
+   → If resources are already cached, it may skip network calls
+
+2. DNS lookup
+   → Domain is converted into an IP address
+
+3. TCP connection
+   → Browser establishes connection with the server (3-way handshake)
+
+4. SSL/TLS handshake (HTTPS)
+   → Secure connection is established (encryption keys exchanged)
+
+5. HTTP request sent
+   → Browser sends request (headers, cookies, method like GET)
+
+6. Server processes request
+   → Backend handles logic, fetches data, prepares response
+
+7. HTTP response received
+   → HTML, CSS, JS files come back with status code
+
+8. Browser parses HTML
+   → Builds DOM (Document Object Model)
+
+9. CSS is parsed
+   → Builds CSSOM (CSS Object Model)
+
+10. JS execution begins
+    → Can block rendering if synchronous
+
+11. DOM + CSSOM → Render Tree
+    → Combines structure + styles
+
+12. Layout (Reflow)
+    → Calculates exact position and size of elements
+
+13. Paint
+    → Pixels are drawn on screen
+
+14. Compositing
+    → Layers are combined and GPU may optimize rendering
+
+15. Page becomes interactive
+    → Event listeners attached, hydration (in modern frameworks)
